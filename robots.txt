@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://boanerge.me/sitemap.xml
+Host: https://boanerge.me
